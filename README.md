@@ -100,7 +100,7 @@ git push -u origin main
 
 🔗 Live Preview
 
-🌍 GitHub Repository: Java Quiz App
+🌍 GitHub Repository: https://github.com/Anithaaaaaaaa/QuizApp/tree/master/Github3/src/quizApp/java
 
 
 📩 Contact
